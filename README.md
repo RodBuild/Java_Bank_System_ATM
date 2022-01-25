@@ -56,6 +56,7 @@ The libraries that I used helped to read output from the user and to read and wr
 ``` Java
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.util.ArrayList;
 import java.util.Scanner;
 import java.io.BufferedReader;
 import java.io.FileReader;
