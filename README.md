@@ -4,9 +4,8 @@ This program recreates the functionality on using an ATM. The user is prompted t
 
 The purpouse of this project is for me to learn about Java and program using classes, I really like how Java works around the use of classes. Working with the Scanner librabry was interesting, I am sure there could be better ways to read user input, but it worked fine for this project.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=VmRwd7mr29E)
 
 # Development Environment
 
@@ -68,13 +67,11 @@ import java.io.IOException;
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Simple Verifying user login Java](https://www.youtube.com/watch?v=XrktMbcoeis)
 * [How To Replace Specific String In Text File In Java?](https://javaconceptoftheday.com/modify-replace-specific-string-in-text-file-in-java/#:~:text=We%20are%20defining%20one%20method,back%20into%20the%20same%20file)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * I may try to put this code into a UI
 * Connect it to a real database on the internet
 * Add the feature of sending money to other users.
